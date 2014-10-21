@@ -10,6 +10,8 @@
         <servlet-name>HandleUserInfo</servlet-name>
         <url-pattern>/HandleUserInfo.do</url-pattern>
     </servlet-mapping>
+   
+       
        
     <welcome-file-list>
     <welcome-file>HandleUserInfo</welcome-file>
